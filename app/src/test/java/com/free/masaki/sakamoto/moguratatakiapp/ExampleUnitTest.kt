@@ -1,4 +1,4 @@
-package com.free.masaki.sakamoto.mokuratatakiapp
+package com.free.masaki.sakamoto.moguratatakiapp
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.free.masaki.sakamoto.mokuratatakiapp.ui.theme
+package com.free.masaki.sakamoto.moguratatakiapp.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MokuratatakiAppTheme(
+fun MoguratatakiAppTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

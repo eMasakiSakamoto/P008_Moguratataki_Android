@@ -1,4 +1,4 @@
-package com.free.masaki.sakamoto.mokuratatakiapp.ui.theme
+package com.free.masaki.sakamoto.moguratatakiapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
